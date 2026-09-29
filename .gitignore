@@ -1,0 +1,4 @@
+.env
+settings.json
+*.db
+__pycache__/
